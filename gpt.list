@@ -1,0 +1,4 @@
+## > gpt
+USER-AGENT,gpt*
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
